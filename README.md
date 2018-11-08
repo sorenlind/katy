@@ -12,7 +12,7 @@ It supports only a few languages:
 
 It was trained on the [Europarl](http://www.statmt.org/europarl/) dataset.
 
-## Usage:
+## Usage
 
 ```python
 from katy import textcat
