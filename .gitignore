@@ -121,3 +121,8 @@ ds-env2.7/
 
 # VS Code
 .vscode/
+
+# Other config
+.env
+.markdownlint.json
+.pylintrc
